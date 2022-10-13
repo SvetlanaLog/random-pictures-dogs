@@ -1,2 +1,2 @@
 # random-pictures-dogs
-Получение и вывод новых картинок собак.
+Тестовый проект получения и вывод картинок из сервиса {"message":"https:\/\/images.dog.ceo\/breeds\/frise-bichon\/5.jpg","status":"success"}
